@@ -1,7 +1,24 @@
+![STATA](https://img.shields.io/badge/STATA-Intermediate-blue)
+![R](https://img.shields.io/badge/R-Intermediate-green)
+![Climate](https://img.shields.io/badge/Focus-Climate%20Change-success)
+![Publications](https://img.shields.io/badge/Publications-12-brightgreen)
+
+MD MAHFUZUL HASAN 
+
+Research Assistant (Econometrics Analysis), ACASA project, Bangladesh Agricultural Research Council
+Permanent Address: 53/17, Rajballavpur, Sherpur-2100, Bangladesh
+Current Address: 78/4, Kakrail More, Ramna, Dhaka
+Date of Birth: 24/August/1998; Phone: +8801521314014
+     www.researchgate.net/profile/Md-Hasan-586   
+  Mahfuzul44998@bau.edu.bd    https://orcid.org/0009-0001-0193-8549   
+
+
 # Md-Mahfuzul-Hasan
 With over 5 years of dedicated research experience, I have contributed significantly to the field of agricultural sciences, publishing 12 original research articles and many more are in pipeline. My work focuses on sustainable agriculture, climate impacts on agriculture, consumer perception, food security, and supply chain systems. Currently serving as a Research Assistant in the ACASA project at the Bangladesh Agricultural Research Council, I specialize in econometric analysis, with additional footprint on GIS and crop modeling. My goal is to leverage data-driven insights to enhance community well-being, promote sustainable agricultural practices, and advance innovation in the agricultural sector.
 
+
 **EDUCATIONAL QUALIFICATION:**
+
 **Master of Science in Agricultural Economics**
 CGPA 3.576/4.00, Bangladesh Agricultural University, Mymensingh
 Duration: October 2020- July 2022 	Major: Agricultural Economics (Department of Agribusiness and Marketing)
