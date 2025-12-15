@@ -57,7 +57,6 @@ Board: Dhaka, 2013
 
 **General IT Skills**  
 - MS Office Suite (Expert)
-
 ---
 
 
@@ -73,7 +72,6 @@ ACASA Project, Computer and GIS Unit
 - Contributed to the development of an **Agricultural Atlas**, mapping climate risks, vulnerabilities, and adaptation strategies  
 - Conducted econometric analysis on agricultural production costs, gender suitability, and technology adoption across districts  
 
----
 
 ### MEL (Monitoring, Evaluation, and Learning) Assistant  
 **WorldFish Bangladesh – ECOFISH II Project**  
@@ -85,7 +83,6 @@ ACASA Project, Computer and GIS Unit
 - Supported data analysis and reporting using **STATA, SPSS, and R**  
 - Utilized digital survey platforms including **KoboCollect and SurveyCTO**
 
----
 
 ### Consultant  
 **Mati Bangladesh**  
@@ -96,7 +93,6 @@ ACASA Project, Computer and GIS Unit
 - Developed questionnaires, trained enumerators, and supervised field data collection  
 - Conducted data analysis and prepared analytical reports  
 
----
 
 ### Research Associate  
 **Bangladesh Agricultural University (BAU)**  
@@ -108,7 +104,6 @@ ACASA Project, Computer and GIS Unit
 - Co-authored multiple peer-reviewed publications  
 - Currently preparing a research manuscript under supervision (without contract)
 
----
 
 ### Research Assistant  
 **Bangladesh Agricultural University (BAU)**  
@@ -117,7 +112,6 @@ ACASA Project, Computer and GIS Unit
 **Key Responsibilities**
 - Supported **GIZ-funded research** on improved tilapia strains  
 - Conducted growth rate analysis, SWOT analysis, forecasting, and systematic reviews  
-
 ---
 
 ## 📚 Peer-Reviewed Publications (Selected: 12)
@@ -145,6 +139,7 @@ xi.	Rahman, M. S., Begum, M., Rashid, H., Al-Mamun, M., Juyena, N. S., Ashik-E-R
 
 xii.	Ahamed M.S., Palash, M. S., Hasan M.M., Hossain M.F., and Rahman M.S. (2025). Market dynamics and grading challenges of maize in Bangladesh: A case study of rangpur. The Bangladesh Journal of Agricultural Economics, 45(1&2), 33-46. https://doi.org/10.70133/bjae.2024.487    
 
+---
 ## 🚧 Ongoing & Submitted Research (Selected: 16)
 
 1.	Impact of agricultural training on sustainable soil management practices (Under review at Journal of Coastal Conservation)
@@ -164,7 +159,7 @@ xii.	Ahamed M.S., Palash, M. S., Hasan M.M., Hossain M.F., and Rahman M.S. (2025
 15.	A Community-Based Water-Saving and Reuse Model for Sustainable Irrigation in the Barind Tract of Bangladesh (Under review at Human Ecology)
 16.	Understanding Adoption of Energy-Efficient Irrigation and the Cost–Production Efficiency of Boro Rice in Water-Scarce Regions of Bangladesh (Under review at Scientific Report)
 
-
+---
 ## 🏆 Honors & Awards
 - **MS Fellowship**, BAURES (2021)  
 - **National Science & Technology Fellowship**, Ministry of Science & Technology, Bangladesh (2021)
@@ -175,14 +170,18 @@ xii.	Ahamed M.S., Palash, M. S., Hasan M.M., Hossain M.F., and Rahman M.S. (2025
 ## 🌐 Language Proficiency
 - **Bangla:** Native  
 - **English:** IELTS 6.5 (Listening, Reading, Writing, Speaking: 6.5)****
+- ---
 
-**VOLUNTEER EXPERIENCE** 
+
+## 🤝 Volunteering & Leadership
 •	Alumni Member at Bangladesh Agricultural University Career Club
 •	Former Secretary of Social Welfare at Prothom Alo Bandhushava and also Volunteer at Bangladesh Mathematical Olympiad, Bangladesh Biology Olympiad, Bangladesh Language Olympiad, Bangladesh Physics Olympiad
 •	Donar at BADHAN
 •	Former District Coordinator at National Debate Federation 
 
-**TRAINING AND WORKSHOP**
+---
+
+## 🎓 Training & Workshops
 
 1. Statistical training for agricultural research using STATA and R software, Department of Agricultural and Applied statistics, Bangladesh Agricultural University, 12 days
 2. Advanced Data Analysis using industry-accepted and widely popular statistical package, Department of Statistics, the University of Dhaka, 2 months
