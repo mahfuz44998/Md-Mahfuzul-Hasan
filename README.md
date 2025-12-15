@@ -3,73 +3,124 @@
 ![Climate](https://img.shields.io/badge/Focus-Climate%20Change-success)
 ![Publications](https://img.shields.io/badge/Publications-12-brightgreen)
 
-MD MAHFUZUL HASAN 
+# Md. Mahfuzul Hasan, MSc
+### Research Assistant (Econometric Analysis) | Agricultural Economist | Climate Change Researcher | Impact Assessment
 
-Research Assistant (Econometrics Analysis), ACASA project, Bangladesh Agricultural Research Council
-Permanent Address: 53/17, Rajballavpur, Sherpur-2100, Bangladesh
-Current Address: 78/4, Kakrail More, Ramna, Dhaka
-Date of Birth: 24/August/1998; Phone: +8801521314014
-     www.researchgate.net/profile/Md-Hasan-586   
-  Mahfuzul44998@bau.edu.bd    https://orcid.org/0009-0001-0193-8549   
+📍 Dhaka, Bangladesh  
+📧 Email: Mahfuzul44998@bau.edu.bd  
+🔗 [ResearchGate](https://www.researchgate.net/profile/Md-Hasan-586) | [ORCID](https://orcid.org/0009-0001-0193-8549)
+
+---
+
+## 👤 Profile
+With over **five years of research experience**, I have contributed extensively to agricultural economics and climate-focused research, with **12 peer-reviewed publications** and several manuscripts currently under review. My research interests include **sustainable agriculture, climate change impacts, food security, consumer behavior, and agricultural value chains**.
+
+Currently, I am working as a **Research Assistant (Econometric Analysis)** under the **ACASA Project** at the **Bangladesh Agricultural Research Council (BARC)**, where I support evidence-based policymaking through econometric analysis, GIS-based risk mapping, and agricultural data systems. My goal is to apply **data-driven approaches** to strengthen climate resilience, agricultural sustainability, and rural livelihoods.
+
+---
+
+## 🎓 Educational Qualifications
+
+**Master of Science (MSc) in Agricultural Economics**  
+Bangladesh Agricultural University, Mymensingh  
+CGPA: **3.576 / 4.00**  
+Duration: October 2020 – July 2022  
+Major: Agricultural Economics (Department of Agribusiness and Marketing)
+
+**Bachelor of Science (BSc) in Agricultural Economics**  
+Bangladesh Agricultural University, Mymensingh  
+CGPA: **3.33 / 4.00**  
+Duration: January 2016 – February 2020  
+
+**Higher Secondary Certificate (HSC)**  
+GPA: **5.00 / 5.00**, Science  
+Board: Dhaka, 2015  
+
+**Secondary School Certificate (SSC)**  
+GPA: **5.00 / 5.00**, Science  
+Board: Dhaka, 2013  
+
+---
+
+## 🧠 Expertise
+
+**Statistical & Analytical Software**  
+- STATA (Expert)  
+- R (Intermediate)  
+- SPSS (Expert)  
+- ArcGIS / ArcMap (Intermediate)
+
+**Survey & Data Collection Tools**  
+- Kobo Toolbox (Expert)  
+- SurveyCTO (Expert)  
+- ODK
+
+**General IT Skills**  
+- MS Office Suite (Expert)
+
+---
 
 
-# Md-Mahfuzul-Hasan
-With over 5 years of dedicated research experience, I have contributed significantly to the field of agricultural sciences, publishing 12 original research articles and many more are in pipeline. My work focuses on sustainable agriculture, climate impacts on agriculture, consumer perception, food security, and supply chain systems. Currently serving as a Research Assistant in the ACASA project at the Bangladesh Agricultural Research Council, I specialize in econometric analysis, with additional footprint on GIS and crop modeling. My goal is to leverage data-driven insights to enhance community well-being, promote sustainable agricultural practices, and advance innovation in the agricultural sector.
+## 💼 Professional Experience
 
+### Research Assistant (Econometric Analysis)  
+**Bangladesh Agricultural Research Council (BARC)**  
+ACASA Project, Computer and GIS Unit  
+**Duration:** October 2024 – Present (Contractual till July 2026)
 
-**EDUCATIONAL QUALIFICATION:**
+**Key Responsibilities**
+- Supported policymakers in addressing current and future climate change impacts on Bangladesh’s agricultural sector  
+- Contributed to the development of an **Agricultural Atlas**, mapping climate risks, vulnerabilities, and adaptation strategies  
+- Conducted econometric analysis on agricultural production costs, gender suitability, and technology adoption across districts  
 
-**Master of Science in Agricultural Economics**
-CGPA 3.576/4.00, Bangladesh Agricultural University, Mymensingh
-Duration: October 2020- July 2022 	Major: Agricultural Economics (Department of Agribusiness and Marketing)
+---
 
-**BSc in Agricultural Economics**
-CGPA 3.33/4.00, Bangladesh Agricultural University, Mymensingh
-Duration: January 2016- February 2020	Major: Agricultural Economics 
+### MEL (Monitoring, Evaluation, and Learning) Assistant  
+**WorldFish Bangladesh – ECOFISH II Project**  
+**Duration:** May 2024 – October 2024  
 
-**Higher Secondary Certificate**
-GPA 5.00/5.00, Group: Science, Board: Dhaka, 2015	Major: Science
+**Key Responsibilities**
+- Led survey design on climate change impacts on fishers’ livelihoods  
+- Trained enumerators and supervised endline survey data collection  
+- Supported data analysis and reporting using **STATA, SPSS, and R**  
+- Utilized digital survey platforms including **KoboCollect and SurveyCTO**
 
-**Secondary School Certificate**
-GPA 5.00/5.00, Group: Science, Board: Dhaka, 2013	Major: Science
+---
 
-**EXPERTISE**
-Software Proficiency:	STATA (Intermediate), R (Intermediate), SPSS (Intermediate), Arc-Map (Intermediate)
-Survey tools:	Kobo Toolbox (Expert), ODK, Survey CTO (Expert).
-General IT: 	MS Office Suite (Expert).
+### Consultant  
+**Mati Bangladesh**  
+**Duration:** January 2024 – April 2024  
 
-**WORK EXPERIENCE**
-1.	Organization: Bangladesh Agricultural Research Council 
-**Position:** Research Assistant (Econometric Analysis), ACASA project, Computer and GIS unit.
-**Duration:** [Oct, 2024 – current] (Contractual till July-2026) 
-**Key responsibility:** Support policymakers in addressing current and future climate change impacts on Bangladesh’s agricultural sector; Contribute to data support on developing an Agricultural Atlas about mapping risks, vulnerabilities, and adaptation strategies; Analyze agricultural production costs, gender suitability in agricultural roles, and technology adoption potential related to climate change across district.
+**Key Responsibilities**
+- Managed a project on consumer preferences for organic food  
+- Developed questionnaires, trained enumerators, and supervised field data collection  
+- Conducted data analysis and prepared analytical reports  
 
-2.	MEL (Monitoring Evaluation and Learning) Assistant, Ecofish-II project, WorldFish, Bangladesh
-**Duration:** 6 months (Contractual) [May, 2024 – October-2024]
-**Supervisor:** A.B.M. Mahfuzul Haque, MEL Manager, ECOFISH II Project, WorldFish	
-**Key responsibility:** Led survey design on climate change impacts on fishermen’s livelihoods.; Trained enumerators and monitored Endline survey data collection.; Supported data analysis and report writing using SPSS, STATA, and R.; Utilized survey applications such as KoboCollect and SurveyCTO.
+---
 
-3.	Consultant, Mati Bangladesh
-**Duration:** 4 months (Contractual) [ January, 2024 – April, 2024] 
-**Supervisor:** Professor Dr. Md. Akhtaruzzaman Khan, Department of Agricultural Finance and Banking, BAU and Shahidul Islam, Director of Development, Mati Bangladesh.
-**Key responsibility:** Managed a project on consumer preferences for organic foods; handled questionnaire development, enumerator training, data collection, analysis, and reporting.
+### Research Associate  
+**Bangladesh Agricultural University (BAU)**  
+**Duration:** February 2021 – September 2024  
 
-4.	Research Associate [Feb, 2021 – September, 2024] 
-**Supervisor:** Prof. Dr. Md. Wakilur Rahman, Department of Rural Sociology, BAU  
-**Key responsibility:** Contributed to multiple impact assessment projects for WorldFish, IWMI, ACIAR, KGF, USAID, and ICARDA-SPIA. Supported survey design, data collection, analysis, and reporting (Monitoring and Evaluation). Collaboration with him I have published many research papers in reputed journal.
-•	Currently engaged in preparing a research paper under his supervision (without contract).
+**Key Contributions**
+- Contributed to multiple impact evaluation projects funded by **WorldFish, IWMI, ACIAR, KGF, USAID, and ICARDA-SPIA**  
+- Supported survey design, data analysis, and monitoring & evaluation activities  
+- Co-authored multiple peer-reviewed publications  
+- Currently preparing a research manuscript under supervision (without contract)
 
-5.	Research Associate [ October, 2023 – September, 2024] 
-**Supervisor:** Professor Dr. Md. Salauddin Palash, Department of Agribusiness and Marketing, BAU
-**Duration:** 12 months (Flexible hour)- Currently preparing research paper 
-**Key responsibility:** Assisted in different projects on climate-resilient agriculture and postharvest value chains; contributed to several research papers and supported project management and data analysis (Monitoring and Evaluation). Collaboration with him I have published many research papers in reputed journal. 
-•	Currently engaged in preparing a research paper under his supervision (without contract).
+---
 
-6.	Research Assistant [ April, 2020 – December, 2022] 
-**Supervisor:** Professor Dr. A.H.M. Saiful Islam, Department of Agricultural Economics, BAU   
-**Key responsibility:** Supported GIZ-funded research on improved tilapia strains, including data analysis (growth rate, SWOT, forecasting) and systematic review writing
+### Research Assistant  
+**Bangladesh Agricultural University (BAU)**  
+**Duration:** April 2020 – December 2022  
 
-**PUBLISHED RESEARCH PAPER:**  
+**Key Responsibilities**
+- Supported **GIZ-funded research** on improved tilapia strains  
+- Conducted growth rate analysis, SWOT analysis, forecasting, and systematic reviews  
+
+---
+
+## 📚 Peer-Reviewed Publications (Selected: 12)
 i.	Palash, M.S., Hossain, M.A., Hasan, M.M.* et al. Examining the nexus between climate change perceptions and good agricultural practices: a focus on coastal regions of Bangladesh. Mitig Adapt Strateg Glob Change 30, 78 (2025). https://doi.org/10.1007/s11027-025-10275-0   https://rdcu.be/eRFZA 
 
 ii.	Hasan, M. M., Tabassum, N., Bhuiyan, M. K. J., Alam, M. A., Islam, A. H. M. S, & Hasif, M. A. M. (2023). An analysis of area and production growth rate along with price forecasting of major pulses in Bangladesh. Archives of Agriculture and Environmental Science, 8(4), 462-467. https://doi.org/10.26832/24566632.2023.080401
@@ -94,7 +145,8 @@ xi.	Rahman, M. S., Begum, M., Rashid, H., Al-Mamun, M., Juyena, N. S., Ashik-E-R
 
 xii.	Ahamed M.S., Palash, M. S., Hasan M.M., Hossain M.F., and Rahman M.S. (2025). Market dynamics and grading challenges of maize in Bangladesh: A case study of rangpur. The Bangladesh Journal of Agricultural Economics, 45(1&2), 33-46. https://doi.org/10.70133/bjae.2024.487    
 
-**SUBMITTED RESEARCH WORK:** 
+## 🚧 Ongoing & Submitted Research (Selected: 16)
+
 1.	Impact of agricultural training on sustainable soil management practices (Under review at Journal of Coastal Conservation)
 2.	Assessing Livelihood vulnerability and climate resilience in agriculture: A study of the Indo-Gangetic Plains and Coastal Bangladesh (Under review at Discover agriculture)
 3.	Assessing the Multifaceted Impacts of Climate Change on Economic, Environmental, and Health Sectors in Bangladesh: A case study of Coastal region (Under Review at Heliyon)
@@ -113,13 +165,16 @@ xii.	Ahamed M.S., Palash, M. S., Hasan M.M., Hossain M.F., and Rahman M.S. (2025
 16.	Understanding Adoption of Energy-Efficient Irrigation and the Cost–Production Efficiency of Boro Rice in Water-Scarce Regions of Bangladesh (Under review at Scientific Report)
 
 
-**HONOURS AND AWARDS**
-•	MS Fellow [07/2021] Bangladesh Agricultural University Research System (BAURES)  
-•	National Science and Technology (NST) Fellowship [2021] Ministry of Science and Technology, Bangladesh.  
+## 🏆 Honors & Awards
+- **MS Fellowship**, BAURES (2021)  
+- **National Science & Technology Fellowship**, Ministry of Science & Technology, Bangladesh (2021)
 
-**LANGUAGE PROFICIENCY**
-Bangla: Native
-English: (IELTS Score 6.5:  Listening 6.5 Reading 6.5 Writing 6.5 Speaking 6.5)
+---
+
+
+## 🌐 Language Proficiency
+- **Bangla:** Native  
+- **English:** IELTS 6.5 (Listening, Reading, Writing, Speaking: 6.5)****
 
 **VOLUNTEER EXPERIENCE** 
 •	Alumni Member at Bangladesh Agricultural University Career Club
@@ -129,9 +184,9 @@ English: (IELTS Score 6.5:  Listening 6.5 Reading 6.5 Writing 6.5 Speaking 6.5)
 
 **TRAINING AND WORKSHOP**
 
-1. Statistical training for agricultural research using STATA and R software	Department of Agricultural and Applied statistics, Bangladesh Agricultural University	12 days
-2. Advanced Data Analysis using industry-accepted and widely popular statistical package	Department of Statistics, the University of Dhaka	2 months
-3. Blockchain in Agriculture	Dept. of Agricultural Finance & Banking, BAU and Cardiff School of Technologies Cardiff Metropolitan University, United Kingdom	1 days 
-4. SenseMaker® - The Cynefin Co	Anna Panagiotou, PhD, Programme Manager & Researcher,The Cynefin Compan	2 days
-5. Basics of MS Office 	Graduate Training Institute, Bangladesh Agricultural University	1 month
-6. Active Citizen Youth Leadership Training 	British Council in association with Democracy Watch	4 days
+1. Statistical training for agricultural research using STATA and R software, Department of Agricultural and Applied statistics, Bangladesh Agricultural University, 12 days
+2. Advanced Data Analysis using industry-accepted and widely popular statistical package, Department of Statistics, the University of Dhaka, 2 months
+3. Blockchain in Agriculture, Dept. of Agricultural Finance & Banking, BAU and Cardiff School of Technologies Cardiff Metropolitan University, United Kingdom, 1 days 
+4. SenseMaker® - The Cynefin Co, Anna Panagiotou, PhD, Programme Manager & Researcher,The Cynefin Company,2 days
+5. Basics of MS Office, Graduate Training Institute, Bangladesh Agricultural University, 1 month
+6. Active Citizen Youth Leadership Training, British Council in association with Democracy Watch, 4 days
